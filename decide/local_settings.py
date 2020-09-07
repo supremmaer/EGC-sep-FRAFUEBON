@@ -13,7 +13,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'http://localhost:8005'
+BASEURL = 'https://egc-sep-frafuebon.herokuapp.com/'
 
 APIS = {
     'authentication': BASEURL,
