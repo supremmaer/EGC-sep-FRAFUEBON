@@ -2,6 +2,8 @@
 Plataforma voto electrónico educativa
 ====================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/093c1c8a944949fa9a1341731dc179a7)](https://app.codacy.com/manual/supremmaer/EGC-sep-FRAFUEBON?utm_source=github.com&utm_medium=referral&utm_content=supremmaer/EGC-sep-FRAFUEBON&utm_campaign=Badge_Grade_Dashboard)
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
